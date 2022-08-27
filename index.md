@@ -17,9 +17,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-
-#Hello I'm not messing around that much at this step because I know a bit of markdown and a lot of GitHub
-
 Syntax highlighted code block
 
 # Header 1
