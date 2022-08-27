@@ -1,10 +1,10 @@
 # Kyle's First CS193 Homework
 
-'''markdown
+```markdown
 My favorite things about CS193
 - Meets once a week
 - Is a chill class
-'''
+```
 
 ## Welcome to GitHub Pages
 
